@@ -1,0 +1,9 @@
+.search-bar {
+    width: 0;
+    opacity: 0;
+  }
+  
+  .search-bar:hover {
+    width: 300px;
+    opacity: 1;
+  }

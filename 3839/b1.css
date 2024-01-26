@@ -1,0 +1,28 @@
+.step {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #ccc;
+  }
+  
+  .active {
+    background-color: #000;
+  }.next {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .next:disabled {
+    background-color: #ccc;
+    color: #000;
+  }
+  
+  .previous {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .previous:disabled {
+    background-color: #ccc;
+    color: #000;
+  }
